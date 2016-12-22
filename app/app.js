@@ -11,6 +11,10 @@ phonecatApp.controller('PhoneListController', function PhoneListController($scop
 		{
 			name: 'Motorola XOOM with Wi-Fi',
 			snippet: 'Hey my phone has Wi-Fi'
+		},
+		{
+			name: 'Samsung S7',
+			snippet: 'Back with a bang'
 		}
 	];
 });
